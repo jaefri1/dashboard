@@ -1,5 +1,6 @@
 streamlit
 folium
-streamlit-folium
-pandas
 plotly
+reportlab
+pandas
+streamlit-folium
